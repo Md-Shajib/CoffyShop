@@ -1,0 +1,7 @@
+F:\C#\CoffyShop(Switch-Case)\CoffyShop(Switch-Case)\bin\Debug\CoffyShop(Switch-Case).exe.config
+F:\C#\CoffyShop(Switch-Case)\CoffyShop(Switch-Case)\bin\Debug\CoffyShop(Switch-Case).exe
+F:\C#\CoffyShop(Switch-Case)\CoffyShop(Switch-Case)\bin\Debug\CoffyShop(Switch-Case).pdb
+F:\C#\CoffyShop(Switch-Case)\CoffyShop(Switch-Case)\obj\Debug\CoffyShop(Switch-Case).csproj.AssemblyReference.cache
+F:\C#\CoffyShop(Switch-Case)\CoffyShop(Switch-Case)\obj\Debug\CoffyShop(Switch-Case).csproj.CoreCompileInputs.cache
+F:\C#\CoffyShop(Switch-Case)\CoffyShop(Switch-Case)\obj\Debug\CoffyShop(Switch-Case).exe
+F:\C#\CoffyShop(Switch-Case)\CoffyShop(Switch-Case)\obj\Debug\CoffyShop(Switch-Case).pdb
